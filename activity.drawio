@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-25T07:41:59.227Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0" etag="KzraGSCIWsrFwZvIFaVu" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-25T07:54:11.093Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0" etag="aRvFIVijOw9dlHrI7Wzi" version="21.1.1" type="github">
   <diagram name="Страница 1" id="2Y5gwTfUt295sFmiLygX">
-    <mxGraphModel dx="2049" dy="1094" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="869" dy="464" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -140,8 +140,14 @@
         <mxCell id="iLAZZ_uKkT6nhES5Zt_9-50" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
           <mxGeometry x="222" y="771" width="20" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="iLAZZ_uKkT6nhES5Zt_9-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iLAZZ_uKkT6nhES5Zt_9-53" target="iLAZZ_uKkT6nhES5Zt_9-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iLAZZ_uKkT6nhES5Zt_9-53" value="Нажать кнопку &quot;Создать&quot;" style="whiteSpace=wrap;html=1;fillColor=none;sketch=0;fillStyle=solid;" vertex="1" parent="1">
           <mxGeometry x="172" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iLAZZ_uKkT6nhES5Zt_9-55" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="222" y="915" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
