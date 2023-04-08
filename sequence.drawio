@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-08T07:43:25.560Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0" etag="XybRTtzAqSysdx-O8xWG" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-08T07:50:42.802Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0" etag="-c9RD45sOFsWZwzGcm24" version="21.1.5" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
-    <mxGraphModel dx="1195" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="989" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -228,14 +228,14 @@
         </mxCell>
         <mxCell id="cyO90_0jqSDngO5HApBW-1" value="Вернуть доску" style="endArrow=classic;html=1;rounded=0;entryX=1.034;entryY=0.949;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="471" y="526.1700000000001" as="sourcePoint" />
-            <mxPoint x="341.3399999999999" y="526.1700000000001" as="targetPoint" />
+            <mxPoint x="471" y="532.1700000000001" as="sourcePoint" />
+            <mxPoint x="341.3399999999999" y="532.1700000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cyO90_0jqSDngO5HApBW-2" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="331" y="535" as="sourcePoint" />
-            <mxPoint x="155" y="535" as="targetPoint" />
+            <mxPoint x="331" y="541" as="sourcePoint" />
+            <mxPoint x="155" y="541" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GDmC7OSBINtKrbnF4ZJh-7" value="Вернуть ошибку об создании доски" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
